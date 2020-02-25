@@ -4,9 +4,14 @@
 
 2020-02-20 ~ 2020-00-00
 
+# Dev Env
+* IntelliJ IEDA Ultimate(Edu)
+* Java 8
+* Gradle 4.10.2
+
 # TODO
 * [x] chap1.
-* [ ] chap2. 
+* [x] chap2. 
 * [ ] chap3.
 * [ ] chap4.
 * [ ] chap5.
