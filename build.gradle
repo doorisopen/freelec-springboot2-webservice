@@ -30,5 +30,6 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-data-jpa') // chap3 (1)
     compile('com.h2database:h2') // chap3 (2)
     compile('org.springframework.boot:spring-boot-starter-mustache') // chap4
+    compile('org.springframework.boot:spring-boot-starter-oauth2-client') // chap5 (1)
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
