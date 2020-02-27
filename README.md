@@ -21,7 +21,8 @@
   + [chap3.3 Spring Data JPA Test Code](https://github.com/doorisopen/freelec-springboot2-webservice/tree/3ba7953a30f1fabf4bf7ce1345f6945af153b057)
   + [chap3.4 등록/수정/조회 기능 & Test Code](https://github.com/doorisopen/freelec-springboot2-webservice/tree/ef3197a0e023dac89bb35b6cf82b8d9bbdfd2f8a)
   + [chap3.5 JPA Auditing(등록/수정 시간 자동화) & Test Code](https://github.com/doorisopen/freelec-springboot2-webservice/tree/2ab0ea02b3993d3a8f3691e1df42fd043750647c)
-* [ ] chap4.
+* [x] chap4.
+  + [chap4.5 Mustache로 CRUD 구성하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/ca9af0b292be752aaa87b4d80b349ff8784c9dfa)
 * [ ] chap5.
 * [ ] chap6.
 * [ ] chap7.
