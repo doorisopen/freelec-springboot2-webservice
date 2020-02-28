@@ -32,5 +32,6 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-mustache') // chap4
     compile('org.springframework.boot:spring-boot-starter-oauth2-client') // chap5 (1)
     compile('org.springframework.session:spring-session-jdbc') // chap5.4 (1)
+    testCompile('org.springframework.security:spring-security-test') // chap5.7
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
