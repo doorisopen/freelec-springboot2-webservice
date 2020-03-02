@@ -23,11 +23,16 @@
   + [chap3.5 JPA Auditing(등록/수정 시간 자동화) & Test Code](https://github.com/doorisopen/freelec-springboot2-webservice/tree/2ab0ea02b3993d3a8f3691e1df42fd043750647c)
 * [x] chap4.
   + [chap4.5 Mustache로 CRUD 구성하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/ca9af0b292be752aaa87b4d80b349ff8784c9dfa)
-* [ ] chap5.
+* [x] chap5.
+  + [chap5.2 add .gitignore](https://github.com/doorisopen/freelec-springboot2-webservice/tree/76ff9d724928d748f60f8cddbb992278947f587c)
+  + [chap5.3 OAuth2 Google](https://github.com/doorisopen/freelec-springboot2-webservice/tree/c07ef6ee0f114280ff651528aad5905a609cb06c)
+  + [chap5.4 SessionUser 애너테이션 기반으로 만들기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/1d2f643eba4b2f340bd07ce56bf7a3d422a50630)
+  + [chap5.5 데이터베이스를 세션 저장소로 사용하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/360188b6ce66100ac98476b44c4164b138bb898c)
+  + [chap5.6 OAuth2 Naver](https://github.com/doorisopen/freelec-springboot2-webservice/tree/268dfa7e3eabcc0908f8c7a505c1d2a8480b7007)
+  + [chap5.7 기존 테스트에 시큐리티 적용하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/acd91dfddd38c9fe7bd76de16075534daee1fa29)
 * [ ] chap6.
 * [ ] chap7.
 * [ ] chap8.
-
 * [ ] chap9.
 * [ ] chap10.
 * [ ] chap11.
