@@ -32,7 +32,7 @@
   + [chap5.7 기존 테스트에 시큐리티 적용하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/acd91dfddd38c9fe7bd76de16075534daee1fa29)
 * [x] chap6.
 * [x] chap7.
-* [ ] chap8.
-* [ ] chap9.
+* [x] chap8.
+* [x] chap9.
 * [ ] chap10.
 * [ ] chap11.
