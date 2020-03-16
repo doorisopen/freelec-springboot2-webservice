@@ -30,9 +30,17 @@
   + [chap5.5 데이터베이스를 세션 저장소로 사용하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/360188b6ce66100ac98476b44c4164b138bb898c)
   + [chap5.6 OAuth2 Naver](https://github.com/doorisopen/freelec-springboot2-webservice/tree/268dfa7e3eabcc0908f8c7a505c1d2a8480b7007)
   + [chap5.7 기존 테스트에 시큐리티 적용하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/acd91dfddd38c9fe7bd76de16075534daee1fa29)
-* [x] chap6.
-* [x] chap7.
-* [x] chap8.
-* [x] chap9.
-* [ ] chap10.
-* [ ] chap11.
+* [x] __chap6.__ [[Blog] chap6.AWS EC2 서버 환경 구축하기](https://doorisopen.github.io/spring/2020/03/10/spring-freelec-springboot-chap6.html)
+* [x] __chap7.__ [[Blog] chap7.AWS RDS 생성하기](https://doorisopen.github.io/spring/2020/03/11/spring-freelec-springboot-chap7.html)
+* [x] __chap8.__ [[Blog] chap8.EC2 서버에 프로젝트 배포하기](https://doorisopen.github.io/spring/2020/03/12/spring-freelec-springboot-chap8.html)
+  + [chap8.4 스프링 부트 프로젝트로 RDS 접근하기](https://github.com/doorisopen/freelec-springboot2-webservice/tree/b68c56e2406081251d3be71cf664979907b85839)
+* [x] __chap9.__ [[Blog] chap9.Travis CI 배포 자동화](https://doorisopen.github.io/spring/2020/03/13/spring-freelec-springboot-chap9.html)
+  + [chap9.2 Travis CI 배포 자동화](https://github.com/doorisopen/freelec-springboot2-webservice/tree/61fb10bccc2edcd3f7edca0b4d1b96bd944f673c)
+  + [chap9.3 Travis CI 배포 자동화(code push > auto deploy)](https://github.com/doorisopen/freelec-springboot2-webservice/tree/865dda366bf3702da7380f1cd5aa0ab03cdda0fd)
+  + [chap9.4 Travis CI,S3,Code Deploy 연동](https://github.com/doorisopen/freelec-springboot2-webservice/tree/6a87a94eb87eabea69def741debaa2ec04961cca)
+  + [chap9.5 배포 자동화 구성](https://github.com/doorisopen/freelec-springboot2-webservice/tree/23d81e1882c4782cdb7019e43ffad9ba1111741d)
+  + [chap9.5 배포 테스트](https://github.com/doorisopen/freelec-springboot2-webservice/tree/6f316b63035c8747842b3a7d66280cf3cf766916)
+* [x] __chap10.__
+  + [chap10.3 무중단 배포 스크립트 작성 & 테스트 코드](https://github.com/doorisopen/freelec-springboot2-webservice/tree/dc31295798febe681e44c5729e73a08cef79e4e6)
+  + [chap10.4 무중단 배포 테스트(code modify)](https://github.com/doorisopen/freelec-springboot2-webservice/tree/f434bc09d011423dd8162e0404bb57e4442deb3f)
+* [x] __chap11.__
