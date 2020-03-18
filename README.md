@@ -2,12 +2,16 @@
 
 [스프링 부트와 AWS로 혼자 구현하는 웹서비스 (프리렉, 이동욱 지음)](https://jojoldu.tistory.com/463) 책에서 공부한 내용을 기록한 저장소입니다.
 
-2020-02-20 ~ 2020-00-00
+2020-02-20 ~ 2020-03-18
 
 # Dev Env
 * IntelliJ IEDA Ultimate(Edu)
 * Java 8
 * Gradle 4.10.2
+* AWS EC2, RDS, S3
+* Travis CI
+* Nginx
+
 
 # TODO
 * [x] __chap1.__ [[Blog] chap1.스프링 부트 시작하기](https://doorisopen.github.io/spring/2020/02/24/spring-freelec-springboot-chap1.html)
@@ -40,7 +44,7 @@
   + [chap9.4 Travis CI,S3,Code Deploy 연동](https://github.com/doorisopen/freelec-springboot2-webservice/tree/6a87a94eb87eabea69def741debaa2ec04961cca)
   + [chap9.5 배포 자동화 구성](https://github.com/doorisopen/freelec-springboot2-webservice/tree/23d81e1882c4782cdb7019e43ffad9ba1111741d)
   + [chap9.5 배포 테스트](https://github.com/doorisopen/freelec-springboot2-webservice/tree/6f316b63035c8747842b3a7d66280cf3cf766916)
-* [x] __chap10.__
+* [x] __chap10.__ [[Blog] chap10.Nginx를 이용한 무중단 배포](https://doorisopen.github.io/spring/2020/03/18/spring-freelec-springboot-chap10.html)
   + [chap10.3 무중단 배포 스크립트 작성 & 테스트 코드](https://github.com/doorisopen/freelec-springboot2-webservice/tree/dc31295798febe681e44c5729e73a08cef79e4e6)
   + [chap10.4 무중단 배포 테스트(code modify)](https://github.com/doorisopen/freelec-springboot2-webservice/tree/f434bc09d011423dd8162e0404bb57e4442deb3f)
-* [x] __chap11.__
+* [x] __chap11.__ 
